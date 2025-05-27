@@ -138,7 +138,7 @@ Progresso: [🟢🟢🟢🟢🟢🟢🟢⚪⚪⚪⚪⚪] 7/12 (58%)
 ##### Prompt
 
 ```sh
-/explique por que esta função pode não estar funcionando corretamente?
+/explain por que esta função pode não estar funcionando corretamente?
 ```
 
 ##### Saída esperada
