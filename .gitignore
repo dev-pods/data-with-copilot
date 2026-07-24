@@ -1,0 +1,20 @@
+# Dependencias / ambiente Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Banco de dados gerado localmente
+lab/**/*.db
+lab/**/*.sqlite
+
+# Saidas geradas (graficos, artefatos) - mantidas fora do versionamento
+lab/outputs/*
+!lab/outputs/.gitkeep
+
+# Logs e temporarios
+*.log
+.DS_Store
+.env

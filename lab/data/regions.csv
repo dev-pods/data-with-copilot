@@ -1,0 +1,16 @@
+id,region_name,country,climate,avg_temperature,soil_type
+1,Bordeaux,France,Temperate,13.5,Clay-limestone
+2,Tuscany,Italy,Mediterranean,15.2,Clay
+3,Napa Valley,USA,Mediterranean,15.8,Volcanic
+4,Rioja,Spain,Continental,12.8,Clay-calcareous
+5,Douro Valley,Portugal,Mediterranean,16.1,Schist
+6,Mendoza,Argentina,Semi-arid,14.9,Alluvial
+7,Barossa Valley,Australia,Mediterranean,17.3,Red clay
+8,Marlborough,New Zealand,Maritime,12.4,Alluvial-clay
+9,Mosel,Germany,Cool continental,9.8,Slate
+10,Stellenbosch,South Africa,Mediterranean,18.5,Granite
+11,Champagne,France,Cool oceanic,11.0,Chalk
+12,Willamette Valley,USA,Cool maritime,11.9,Volcanic-sedimentary
+13,Central Otago,New Zealand,Semi-continental,10.5,Schist
+14,Chianti,Italy,Mediterranean,14.6,Limestone-marl
+15,Priorat,Spain,Mediterranean,14.3,Llicorella (slate)

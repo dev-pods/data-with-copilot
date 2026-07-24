@@ -1,0 +1,25 @@
+{
+  "name": "Data + GitHub Copilot",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "charliermarsh.ruff"
+      ],
+      "settings": {
+        "chat.agent.enabled": true,
+        "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+        "python.defaultInterpreterPath": "/usr/local/bin/python"
+      }
+    }
+  },
+  "postCreateCommand": "pip install --upgrade pip && pip install -r lab/requirements.txt && echo 'Ambiente pronto. Abra a issue do exercicio e siga o Passo 1.'"
+}

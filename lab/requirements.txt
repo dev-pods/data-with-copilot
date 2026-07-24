@@ -1,0 +1,7 @@
+# Dependencias do workshop Data + GitHub Copilot
+# Versoes com faixa estavel para reprodutibilidade em Codespaces e CI.
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+matplotlib>=3.8,<4.0
+seaborn>=0.13,<0.14
+SQLAlchemy>=2.0,<3.0
